@@ -1,4 +1,4 @@
-#include "function1.h"
+#include "function.h"
 int main(){
 checkSolution();
 }
